@@ -1,0 +1,15 @@
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\bin\Debug\netstandard2.0\Xamarin_MatchingGame.deps.json
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\bin\Debug\netstandard2.0\Xamarin_MatchingGame.dll
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\bin\Debug\netstandard2.0\ref\Xamarin_MatchingGame.dll
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\bin\Debug\netstandard2.0\Xamarin_MatchingGame.pdb
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.AssemblyInfo.cs
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.dll
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\ref\Xamarin_MatchingGame.dll
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.pdb
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Views\GamePage.xaml.g.cs
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.csprojAssemblyReference.cache
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\Xamarin_MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\Xamarin_MatchingGame\Xamarin_MatchingGame\Xamarin_MatchingGame\obj\Debug\netstandard2.0\XamlC.stamp
