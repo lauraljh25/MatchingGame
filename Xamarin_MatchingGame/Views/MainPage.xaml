@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Xamarin_MatchingGame.ViewModels"
+             mc:Ignorable="d"
+             x:Class="Xamarin_MatchingGame.MainPage">
+
+    <ContentPage.BindingContext>
+        <local:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height=".5*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Little Matching Game" FontSize="Title" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+            Grid.Row="0" Grid.Column="0"/>
+
+            <Label x:Name="LevelLabel" Text="Level: " FontSize="Title"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+            Grid.Row="1" Grid.Column="0"/>
+
+            <Slider x:Name="LevelSlider" Maximum="10" Minimum="4"
+                    Value="{Binding SliderLevel}"
+                    Grid.Row="2" Grid.Column="0" 
+                    ValueChanged="LevelSlider_ValueChanged" 
+                    ThumbColor="#0096FF" MaximumTrackColor="#4E4D4D" MinimumTrackColor="#76BBEB"/>
+
+            <Button x:Name="BeginGameButton" Text="Begin"
+                    Grid.Row="3" Grid.Column="0" Grid.RowSpan="1"
+                    Command="{Binding BeginGameCommand}"/>
+        </Grid>
+
+</ContentPage>
